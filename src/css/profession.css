@@ -1,0 +1,12 @@
+.profession {
+  height: 549px;
+}
+.profession__title {
+  font-family: "Roboto", sans-serif;
+  font-style: normal;
+  font-weight: 700;
+  font-size: 48px;
+  line-height: 140%;
+  text-align: center;
+  color: #FFFFFF;
+}
